@@ -1,18 +1,18 @@
-### Hello there 👋 I´m Franky
+### Hello there 👋 I'm Frank
 
-I´m a physicist, thanks to my career I discovered I love tech and programing, come with me to discover how good this world can be. Reach out to me and touch what once was just in your iagunation.
+I'm a physicist who discovered a love for tech and programming through my career. Join me to explore how wonderful this world can be. Reach out and transform what was once only in your imagination into reality.
 
-I am currently on the final stage of my data scientist program at tripleten.
+I am currently in the final stages of my data scientist program at TripleTen.
 
-Here is the link to my linkedin
-https://www.linkedin.com/in/francisco-hern%C3%A1ndez-padilla-5429ba239/
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/francisco-hern%C3%A1ndez-padilla-5429ba239/)
 
-Technologies
-Python
-Sql
-HTML
-CSS
-Javascript
-Java
+#### Technologies:
+- **Python**
+- **SQL**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Java**
 
-
+#### 📊 My GitHub Stats
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
